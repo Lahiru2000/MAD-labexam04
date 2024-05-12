@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">myToDo</string>
+    <string name="action_settings">Settings</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add Goals</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+
+    <string name="activity_title_home">Notes</string>
+    <string name="msg_no_notes">No notes found!</string>
+    <string name="lbl_new_todo_title">New Todo</string>
+    <string name="lbl_edit_todo_title">Edit Todo</string>
+    <string name="hint_enter_note">Enter your todo!</string>
+</resources>
